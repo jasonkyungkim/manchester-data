@@ -6,6 +6,4 @@ As a lifelong Manchester United fan, it has pained me to witness the club's down
 
 Datasets and other information will be scraped mainly from Kaggle, Optasoccer, Wikipedia, and Whoscored.
 
-{% include fifa_fig.html %}
-
-{% include fifa_fig1.html %}
+<ckkim-rv>.github.io/<fifa_analysis>/</_includes/fifa_fig.html>
