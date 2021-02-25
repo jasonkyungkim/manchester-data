@@ -7,3 +7,5 @@ As a lifelong Manchester United fan, it has pained me to witness the club's down
 3. How much does players' transfer market value affect the team's performance?
 
 Datasets and other information will be scraped mainly from Kaggle, Optasoccer, Wikipedia, and Whoscored.
+
+View Analysis: https://jasonkyungkim.github.io/jupyter_projects/manutd_analysis.html
